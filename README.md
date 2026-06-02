@@ -2,6 +2,9 @@
 
 An automated, cloud-connected IoT project built for the ESP32. This system monitors ambient light levels using a Light Dependent Resistor (LDR), automatically controls an LED (simulating a streetlight), and logs real-time brightness data to the cloud via the ThingSpeak platform.
 
+# you can check the live project at [here](https://wokwi.com/projects/465169169113150465)
+# the live cloud data is here [here](https://thingspeak.mathworks.com/channels/3395420/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15)
+
 This code is configured out-of-the-box for simulation on the **Wokwi** virtual platform.
 
 ---
